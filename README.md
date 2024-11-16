@@ -1,5 +1,4 @@
 
-<img src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/src/assets/Logo/Logo-Full-Light.png' />
 
 # Project Description 📝
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. <br/>
