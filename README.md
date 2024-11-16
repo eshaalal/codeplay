@@ -6,30 +6,13 @@ StudyNotion is a fully functional ed-tech platform that enables users to create,
 The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 
-<h2>Explanation Video 📺 - [ https://youtu.be/Sv_OFZxmCow ]</h2>
-<hr/>
 
-<h2>Live link 🌍📡 - [ https://studynotion-by-vivek.vercel.app/ ]</h2>
+<h2>Live link 🌍📡 - [ https://codeplay-edtech-project.vercel.app/ ]</h2>
 <hr/>
 
 
 <img width='100%' src='https://github.com/vivek-panchal/Ed-Tech-Platform/blob/main/screenshots/home%201.png' />
 
-
-## 🙌 Contributors
-
-<table style="border:1px solid #404040;text-align:center;width:100%">
-<tr><td style="width:14.29%;border:1px solid #404040;">
-        <a href="https://github.com/vivek-panchal" spellcheck="false">
-          <img src="https://avatars.githubusercontent.com/u/95127627?v=4" width="120px;" alt="vivekpanchal" style="border-radius: 5px;"/>
-          <br />
-          <b>Vivek Panchal</b>
-        </a>
-        <br />
-        <a href="https://github.com/vivek-panchal/Wd-Tech-Platform/commits?author=vivek-panchal" title="Contributions" spellcheck="false">
-          52 contributions
-        </a>
-      </td></table>
 
 
 
@@ -38,7 +21,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 
 | Section                 | Description                                  |
 |-------------------------|----------------------------------------------|
-| [StudyNotion Aim](#studynotion-aim-)        | 📚 Overview of StudyNotion's goals            |
+| [CodePlay Aim](#studynotion-aim-)        | 📚 Overview of CodePlay's goals            |
 | [Tech Stack](#tech-stack-)             | 💻🔧 Technologies used in the project         |
 | [System Architecture](#system-architecture-)    | 🏰 Overview of the system architecture      |
 | [Architecture Diagram](#architecture-diagram)   | 🏗️ Diagram illustrating the architecture   |
